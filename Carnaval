@@ -1,0 +1,4 @@
+<!-- SCM Music Player http://scmplayer.net -->
+<script type="text/javascript" src="http://scmplayer.net/script.js" 
+data-config="{'skin':'skins/scmRed/skin.css','volume':50,'autoplay':false,'shuffle':false,'repeat':1,'placement':'top','showplaylist':false,'playlist':[{'title':'%22Carnaval de Sal%E3o%27%27 as 30 melhores (Marchinhas de Carnaval) bons tempos em %C1gua Boa','url':'https://www.youtube.com/watch?v=b__EHoYnFiA'}]}" ></script>
+<!-- SCM Music Player script end -->
